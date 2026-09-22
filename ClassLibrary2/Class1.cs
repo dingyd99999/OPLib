@@ -24,7 +24,7 @@ namespace ClassLibrary2
 
         public double DivideX(double a, double b) => a / b;
 
-        public double DivideY(double a, double b) => a / b+100;
+        public double DivideY(double a, double b) => a / b+200;
     }
 
 }
