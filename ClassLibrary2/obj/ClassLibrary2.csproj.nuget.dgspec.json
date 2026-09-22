@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\71913\\source\\repos\\MYLIB20\\ClassLibrary2\\ClassLibrary2.csproj": {}
+    "D:\\2026AI\\OPLib-main\\OPLib-main\\ClassLibrary2\\ClassLibrary2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\71913\\source\\repos\\MYLIB20\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "D:\\2026AI\\OPLib-main\\OPLib-main\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\71913\\source\\repos\\MYLIB20\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "D:\\2026AI\\OPLib-main\\OPLib-main\\ClassLibrary2\\ClassLibrary2.csproj",
         "projectName": "ClassLibrary2",
-        "projectPath": "C:\\Users\\71913\\source\\repos\\MYLIB20\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectPath": "D:\\2026AI\\OPLib-main\\OPLib-main\\ClassLibrary2\\ClassLibrary2.csproj",
         "packagesPath": "C:\\Users\\71913\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\71913\\source\\repos\\MYLIB20\\ClassLibrary2\\obj\\",
+        "outputPath": "D:\\2026AI\\OPLib-main\\OPLib-main\\ClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\71913\\AppData\\Roaming\\NuGet\\NuGet.Config",
