@@ -21,5 +21,7 @@ namespace ClassLibrary2
         public double Add(double a, double b) => a + b;
         public double Subtract(double a, double b) => a - b;
         public double Multiply(double a, double b) => a * b;
+
+        public double DivideX(double a, double b) => a / b;
     }
 }
